@@ -1,0 +1,6 @@
+{
+  "name": "AI Sketch Guess",
+  "description": "An interactive AI Image Guessing Game where you guess what the AI is drawing stroke by stroke.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
